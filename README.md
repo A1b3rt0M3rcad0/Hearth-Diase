@@ -8,4 +8,6 @@ para avaliar o desempenho de cada modelo
 - Precision
 - Confusion Matrix
 
-Além de algum procedimentos estatisticos para melhor garantia dos resultados.
+Além de alguns procedimentos estatisticos para melhor garantia dos resultados.
+
+Base de dados Retirada do Kaggle: https://www.kaggle.com/datasets/bbyclub/hearth-disease?rvi=1
