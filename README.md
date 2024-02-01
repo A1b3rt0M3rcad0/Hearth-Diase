@@ -7,4 +7,4 @@ para avaliar o desempenho de cada modelo
 - Recall
 - Precision
 - Confusion Matrix
- Além de algum procedimentos estatisticos para melhor garantia dos resultados.
+Além de algum procedimentos estatisticos para melhor garantia dos resultados.
